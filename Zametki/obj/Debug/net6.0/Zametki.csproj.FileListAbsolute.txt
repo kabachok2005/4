@@ -1,0 +1,15 @@
+C:\Users\klika\source\repos\Zametki\Zametki\bin\Debug\net6.0\Zametki.exe
+C:\Users\klika\source\repos\Zametki\Zametki\bin\Debug\net6.0\Zametki.deps.json
+C:\Users\klika\source\repos\Zametki\Zametki\bin\Debug\net6.0\Zametki.runtimeconfig.json
+C:\Users\klika\source\repos\Zametki\Zametki\bin\Debug\net6.0\Zametki.dll
+C:\Users\klika\source\repos\Zametki\Zametki\bin\Debug\net6.0\Zametki.pdb
+C:\Users\klika\source\repos\Zametki\Zametki\obj\Debug\net6.0\Zametki.csproj.AssemblyReference.cache
+C:\Users\klika\source\repos\Zametki\Zametki\obj\Debug\net6.0\Zametki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klika\source\repos\Zametki\Zametki\obj\Debug\net6.0\Zametki.AssemblyInfoInputs.cache
+C:\Users\klika\source\repos\Zametki\Zametki\obj\Debug\net6.0\Zametki.AssemblyInfo.cs
+C:\Users\klika\source\repos\Zametki\Zametki\obj\Debug\net6.0\Zametki.csproj.CoreCompileInputs.cache
+C:\Users\klika\source\repos\Zametki\Zametki\obj\Debug\net6.0\Zametki.dll
+C:\Users\klika\source\repos\Zametki\Zametki\obj\Debug\net6.0\refint\Zametki.dll
+C:\Users\klika\source\repos\Zametki\Zametki\obj\Debug\net6.0\Zametki.pdb
+C:\Users\klika\source\repos\Zametki\Zametki\obj\Debug\net6.0\Zametki.genruntimeconfig.cache
+C:\Users\klika\source\repos\Zametki\Zametki\obj\Debug\net6.0\ref\Zametki.dll
